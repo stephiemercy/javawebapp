@@ -17,7 +17,7 @@ pipeline {
 	  }
 	  stage('testing'){
 	    steps{
-		  echo "THis is test job "
+		  echo "stephie mercy-testing "
 		}
 		}
       stage('Producton'){
